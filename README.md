@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Loïc Wrobel!</h1>
 
-<p align="center">🎓 **Web Developer & Integrator**<br>💼 Looking for new opportunities in **web development**</p>
+<p align="center">🎓 <strong>Web Developer & Integrator</strong><br>💼 Looking for new opportunities in <strong>web development</strong></p>
 
 <p align="center">
   Passionate about creating intuitive and responsive web applications, I continuously strive to learn new technologies and improve my skills. I enjoy working on innovative projects and contributing to their success.
