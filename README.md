@@ -4,10 +4,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/Loicwr/count.svg?"  />
-
-###
-
 <h1 align="center">👋 Hello, I'm Loïc wrobel!</h1>
 
 ###
@@ -25,6 +21,10 @@
 ###
 
 <h3 align="right">🛠️ Tech Stack</h3>
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/Loicwr/count.svg?"  />
 
 ###
 
@@ -63,6 +63,14 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<h3 align="center">Contact me :</h3>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
