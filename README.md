@@ -101,7 +101,7 @@ Let's connect! You can reach me through the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/loic-wrobel/)
 - [Twitter](https://twitter.com/yourusername)
 - [Discord](https://discord.com/users/yourdiscordid)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:loicwr19@gmail.com)
 
 ---
 
