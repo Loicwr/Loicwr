@@ -4,7 +4,17 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="center">👋 Hello, I'm Loïc wrobel!</h1>
+
+###
+
+<img align="right" src="https://profile-counter.glitch.me/Loicwr/count.svg?"  />
+
+###
+
+<p align="left">- 🎓 Trained as a **developer & integrator**<br>- 💼 Looking for new opportunities in **web development**</p>
 
 ###
 
@@ -16,15 +26,7 @@
 
 ###
 
-<p align="left">- 🎓 Trained as a **developer & integrator**<br>- 💼 Looking for new opportunities in **web development**</p>
-
-###
-
 <h3 align="right">🛠️ Tech Stack</h3>
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/Loicwr/count.svg?"  />
 
 ###
 
