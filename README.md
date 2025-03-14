@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div align="center">
   <img height="300" src="https://www.creativedev-madagascar.com/wp-content/uploads/2025/02/integrateur-web-et-developpeur-web.webp"  />
 </div>
@@ -10,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" src="https://profile-counter.glitch.me/Loicwr/count.svg?"  />
 
 ###
@@ -18,19 +22,17 @@
 
 ###
 
-<h3 align="left">🚀 About Me :</h3>
+<p align="left">I am a **Web Developer & Integrator** passionate about creating intuitive and responsive applications. I enjoy working on innovative projects and continuously learning new technologies.</p>
 
 ###
 
-<p align="left">I am a **Web Developer & Integrator** passionate about creating intuitive and responsive applications. I enjoy working on innovative projects and continuously learning new technologies.</p>
+<h3 align="left">🚀 About Me :</h3>
 
 ###
 
 <h3 align="right">🛠️ Tech Stack</h3>
 
 ###
-
-<br clear="both">
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -44,8 +46,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="15" />
@@ -58,15 +58,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loicwr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Loicwr&theme=dracula&column=4&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loicwr&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loicwr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Loicwr&theme=dracula&column=3&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loicwr&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20graph" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">Contact me :</h3>
 
