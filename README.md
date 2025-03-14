@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loicwr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Loicwr&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Loicwr&theme=dracula&column=3&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Loicwr&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false&custom_title=Contribution%20graph" height="200" alt="activity-graph graph"  />
 </div>
