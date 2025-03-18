@@ -60,14 +60,6 @@
 
 ---
 
-### 📂 **My Projects**:
-
-Here are some of the projects I've worked on:
-
-- [Mon Repository](https://github.com/ton-utilisateur/ton-repository)
-
----
-
 ### 📊 **GitHub Stats**:
 
 <div align="center">
