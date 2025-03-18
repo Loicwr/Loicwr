@@ -64,17 +64,7 @@
 
 Here are some of the projects I've worked on:
 
-1. **[Project 1: Portfolio Website](https://github.com/Loicwr/portfolio)**
-   - A responsive and interactive portfolio showcasing my web development skills.
-   - **Technologies used**: HTML5, CSS3, JavaScript, GitHub Pages.
-
-2. **[Project 2: E-commerce Website](https://github.com/Loicwr/e-commerce)**
-   - A fully-functional e-commerce website with product pages, a shopping cart, and order management.
-   - **Technologies used**: React, Node.js, Express, MongoDB.
-
-3. **[Project 3: Blog Application](https://github.com/Loicwr/blog-app)**
-   - A dynamic blog application with features for user authentication, blog posts, and comments.
-   - **Technologies used**: HTML, CSS, JavaScript, Node.js, MongoDB.
+- [Mon Repository](https://github.com/ton-utilisateur/ton-repository)
 
 ---
 
