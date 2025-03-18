@@ -2,7 +2,7 @@ name: Update README with repositories
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Exécuter tous les jours à minuit UTC
+    - cron: "0 0 * * *"  # Exécute tous les jours à minuit UTC
   push:
     branches:
       - main  # Déclenchement lors de push sur la branche principale
@@ -18,8 +18,9 @@ jobs:
 
       - name: Setup pnpm
         run: |
-          export SHELL=/bin/bash  # Définir le shell explicitement
-          curl -fsSL https://get.pnpm.io/install.sh | sh -
+          curl -fsSL https://get.pnpm.io/install.sh | sh -  # Installe pnpm
+          echo "export PATH=$HOME/.local/share/pnpm:$PATH" >> $GITHUB_ENV  # Ajoute pnpm au PATH
+          pnpm --version  # Vérifie que pnpm est installé correctement
 
       - name: Install dependencies with pnpm
         run: pnpm install  # Installer les dépendances
