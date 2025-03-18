@@ -1,0 +1,54 @@
+name: Update README with repositories
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Exécuter tous les jours à minuit UTC
+  push:
+    branches:
+      - main  # Déclenchement lorsque tu effectues un push sur la branche main
+  workflow_dispatch:  # Permet de lancer manuellement l'action depuis GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup pnpm
+        run: |
+          curl -fsSL https://get.pnpm.io/install.sh | sh -
+
+      - name: Install dependencies with pnpm
+        run: pnpm install  # Si tu as un package.json et des dépendances à installer
+
+      - name: Setup jq
+        run: sudo apt-get install jq
+
+      - name: Fetch repositories and update README
+        run: |
+          USER="loicwr"  # Remplace par ton nom d'utilisateur GitHub si nécessaire
+          README_FILE="README.md"
+
+          # Récupérer la liste des dépôts via l'API GitHub
+          repos=$(curl -s "https://api.github.com/users/$USER/repos?per_page=100" | jq -r '.[].html_url')
+
+          # Créer le fichier README.md avec un en-tête
+          echo "# Bienvenue sur mon profil GitHub" > $README_FILE
+          echo "" >> $README_FILE
+          echo "Voici la liste de tous mes dépôts : " >> $README_FILE
+          echo "" >> $README_FILE
+
+          # Ajouter chaque dépôt à la liste
+          for repo in $repos; do
+            echo "- [$repo]($repo)" >> $README_FILE
+          done
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "Ton Nom"  # Remplace par ton nom
+          git config --global user.email "ton.email@example.com"  # Remplace par ton email
+          git add README.md
+          git commit -m "Mise à jour de la liste des dépôts"
+          git push origin main
