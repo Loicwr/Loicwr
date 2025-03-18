@@ -20,6 +20,17 @@
 
 ---
 
+### 📞 **Contact Me**:
+
+Let's connect! You can reach me through the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/loic-wrobel/)
+- [Twitter](https://twitter.com/yourusername)
+- [Discord](https://discord.com/users/yourdiscordid)
+- [Email](mailto:loicwr19@gmail.com)
+
+---
+
 ### 🛠️ **Tech Stack**:
 
 #### **Front-End**:
@@ -110,17 +121,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Loicwr&theme=algolia&column=3&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies" />
 </div>
-
----
-
-### 📞 **Contact Me**:
-
-Let's connect! You can reach me through the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/loic-wrobel/)
-- [Twitter](https://twitter.com/yourusername)
-- [Discord](https://discord.com/users/yourdiscordid)
-- [Email](mailto:loicwr19@gmail.com)
 
 ---
 
